@@ -1,6 +1,7 @@
 # ![Node/Express/Mongoose Example App](project-logo.png)
 
 [![Build Status](https://travis-ci.org/anishkny/node-express-realworld-example-app.svg?branch=master)](https://travis-ci.org/anishkny/node-express-realworld-example-app)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmartencassel%2Fnode-express-realworld-example-app.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmartencassel%2Fnode-express-realworld-example-app?ref=badge_shield)
 
 > ### Example Node (Express + Mongoose) codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) API spec.
 
@@ -50,3 +51,7 @@ Requests are authenticated using the `Authorization` header with a valid JWT. We
 <br />
 
 [![Brought to you by Thinkster](https://raw.githubusercontent.com/gothinkster/realworld/master/media/end.png)](https://thinkster.io)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmartencassel%2Fnode-express-realworld-example-app.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmartencassel%2Fnode-express-realworld-example-app?ref=badge_large)
